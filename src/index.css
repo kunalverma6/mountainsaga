@@ -11,3 +11,62 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.name{
+  color: rgb(185, 102, 54);
+  text-align: center ;
+   font-family: 'Mulish', sans-serif;
+  font-family: 'Open Sans', sans-serif;;
+  margin: 5rem;
+}
+
+
+h1:hover {
+  color: burlywood;
+}
+li{
+  color: rgb(248, 242, 234) !important;
+  
+}
+li:hover{
+  color: blue !important;
+}
+
+.nav-link:hover{
+  color: blue !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&family=Open+Sans:wght@300&display=swap');
+.col-md-6:hover{
+
+  color: orange !important;
+
+
+
+}
+
+.col-md-6{
+  background-image: url("D:\React\Firstproject\mountain\src\images/divmount.jpg");
+}
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&family=Open+Sans:wght@300&display=swap');
+
+#y{
+  font-family: 'Mulish', sans-serif;
+font-family: 'Open Sans', sans-serif;
+color: DarkGoldenRod;
+font-weight: 200;
+font-size: 2rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&family=Open+Sans:wght@300&display=swap');
+#w{
+  font-family: 'Mulish', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-size: 60px;
+text-align: center;
+color: rgb(202, 29, 29);
+margin-top: 100px;
+margin-bottom: 100px;
+
+}
